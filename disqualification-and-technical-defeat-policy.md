@@ -8,6 +8,8 @@
 
 1.5. It is prohibited to start a game with an incomplete team roster. Violating this rule may result in a technical defeat for the team.
 
-1.6. Participants who have ever been banned by a video game publisher and/or manufacturer, or who have been found guilty of cheating, including using prohibited software, or who have a reputation that will negatively impact the public perception of the Competition, may be disqualified from participating or disqualified without the right to appeal.
+1.6. If team refuses/failed to verify players (e.g. if there is a need to verify gender of a player). Failure/refusing of verify may result a disqualification for the team.
 
-1.7. The procedure for appealing applied sporting sanctions may also be determined in other regulatory documents of the Organizer.
+1.7. Participants who have ever been banned by a video game publisher and/or manufacturer, or who have been found guilty of cheating, including using prohibited software, or who have a reputation that will negatively impact the public perception of the Competition, may be disqualified from participating or disqualified without the right to appeal.
+
+1.8. The procedure for appealing applied sporting sanctions may also be determined in other regulatory documents of the Organizer.
